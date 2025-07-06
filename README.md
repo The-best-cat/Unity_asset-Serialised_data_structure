@@ -1,3 +1,3 @@
 # Serialised Data Structures
-Unity doesn't serialise many data structures like queues and stacks. It is an absolute pain when you need to debug but Unity just won't display them in the inspector. This tool added a **serialised queue**, **stack**, even **priority queue** and **tuple** that will finally display in the inspector. <br><br>
-There are really well made serialised dictionary assets out there so I recommend using theirs if you want serialised dictionaries. My first recommendation is definitely [this one](https://assetstore.unity.com/packages/tools/utilities/serialized-dictionary-243052).
+Unity has been lacking support for many collections like queues and stacks. It is an absolute pain when you need to debug but Unity just won't display them in the inspector. This tool added a **serialised queue**, **stack** and **tuple**, even **priority queue**, **hash set** and **dictionary** that will finally display in the inspector. <br><br>
+See the Wiki page for more information.
